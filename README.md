@@ -1,4 +1,4 @@
-# Moo - A Twitter Clone
+# Chirp - A Twitter Clone
 
 ### UI Design
 
